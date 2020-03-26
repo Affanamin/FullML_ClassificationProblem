@@ -1,0 +1,18 @@
+{	"SampleFileName": "titanic_08012020_120000.csv",
+	"NumberofColumns" : 11,
+	"ColName": {
+	
+            	"PassengerId":"int64",
+                "Pclass":"int64",
+                "Name":"object",
+                "Sex":"object",
+                "Age":"int64",
+                "Sibsp":"int64",
+                "Parch":"int64",
+                "Ticket":"object",
+                "Fare":"float64",
+                "Cabin":"object", 
+                "Embarked":"object"
+                }
+                
+            }
