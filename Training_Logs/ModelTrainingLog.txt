@@ -1,0 +1,5 @@
+2020-03-25/21:03:19		Got the model.
+2020-03-25/21:03:19		Going to create directory
+2020-03-25/21:03:19		Entered the save_model method of the File_Operation class
+2020-03-25/21:03:19		Model File RandomForestClassifier saved. Exited the save_model method of the Model_Finder class
+2020-03-25/21:03:19		Successful End of Training

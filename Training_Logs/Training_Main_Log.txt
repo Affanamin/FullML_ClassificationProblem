@@ -1,0 +1,6 @@
+2020-03-25/21:03:12		Deleting Good Data Folder!!!
+2020-03-25/21:03:12		Good_Data folder deleted!!!
+2020-03-25/21:03:12		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-03-25/21:03:12		Bad files moved to archive!! Bad folder Deleted!!
+2020-03-25/21:03:12		Validation Operation completed!!
+2020-03-25/21:03:12		Extracting csv file from table
